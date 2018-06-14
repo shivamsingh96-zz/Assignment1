@@ -1,0 +1,6 @@
+Ans 1:- slicing from front: x_list[:]
+	slicing from back:  x_list[::-1]
+
+Ans 2:- x_list[::2]
+
+Ans3:- x_list[3]
